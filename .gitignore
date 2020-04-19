@@ -1,4 +1,4 @@
 tcp-ip-essentials
-*.pdf
+**/*.pdf
 .ipynb_checkpoints
 .DS_Store
